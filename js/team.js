@@ -27,7 +27,7 @@ getUserFromLocal = JSON.parse(getUserFromLocal);
 if (getUserFromLocal) {
     console.log(getUserFromLocal)
 } else {
-    window.location = 'index.html'
+    window.location = '././index.html'
 }
 
 let teamsArr = [];
@@ -197,7 +197,7 @@ let deleteTeamFunc = () => {
             )
             delTeamFlag = true
             deletePartTeam()
-            window.location = "main.html"
+            window.location = "././main.html"
         }
     })
 

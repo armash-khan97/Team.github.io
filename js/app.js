@@ -34,7 +34,7 @@ login.addEventListener('click', () => {
 
 
     if (userLogin) {
-        window.location = "main.html"
+        window.location = "././main.html"
 
     }
 

@@ -144,7 +144,7 @@ submit.addEventListener('click', event => {
             button: "OK",
         })
             .then(() => {
-            window.location = "./index.html"
+            window.location = "././index.html"
             
                 });
     }  else {

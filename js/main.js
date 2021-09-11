@@ -22,7 +22,7 @@ getUserFromLocal = JSON.parse(getUserFromLocal);
 if (getUserFromLocal) {
     console.log(getUserFromLocal)
 } else {
-    window.location = 'index.html'
+    window.location = '././index.html'
 }
 
 
